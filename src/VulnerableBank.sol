@@ -1,4 +1,4 @@
-pragma solidity ^0.4.15;
+pragma solidity ^0.6.2;
 
 contract VulnerableBank {
     mapping (address => uint) userBalance;
